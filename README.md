@@ -4,7 +4,7 @@
 
 LinkedIn: [Jay Yao](https://www.linkedin.com/in/j-yao/)
 
-## EXPERIENCE
+### EXPERIENCE
 
 ### Freelance Web Development - Full Stack Developer
 ##### March 2020 - PRESENT
@@ -16,8 +16,15 @@ Designed, developed, and released an application for people to efficiently searc
 #### White Bear - Full Stack Developer
 Developed to spec an app to aid in student achievement utilizing memory techniques and a spaced repetition algorithm. Wrote APIs to perform CRUD operations. Rewrote the front end in React.
 
+### Mandalay Bay Hotel & Casino — Hotel Operations Manager
+##### July 2019 - September 2020
+Identified and implemented changes to improve operations, efficiencies, effectiveness and metrics.
 
-## EDUCATION
+### The Mirage Hotel & Casino — Assistant Front Desk Manager
+##### January 2016 - June 2019
+
+
+### EDUCATION
 ### University of Nevada, Las Vegas - 2015
 Bachelor of Science in Hospitality Management
 
