@@ -4,14 +4,16 @@
 
 LinkedIn: [Jay Yao](https://www.linkedin.com/in/j-yao/)
 
-### EXPERIENCE
+## EXPERIENCE
 
-#### Freelance Web Development - Full Stack Developer
+### Freelance Web Development - Full Stack Developer
 ##### March 2020 - PRESENT
 Developing full stack web applications for small business clients. Taking apps to market in the education and nonprofit industries.
 
 
 
+## EDUCATION
+### University of Nevada, Las Vegas, 2015
 
 
 
