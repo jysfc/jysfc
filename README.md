@@ -4,7 +4,7 @@
 
 LinkedIn: [Jay Yao](https://www.linkedin.com/in/j-yao/)
 
-### EXPERIENCE
+## EXPERIENCE
 
 ### Freelance Web Development - Full Stack Developer
 ##### March 2020 - PRESENT
@@ -24,7 +24,7 @@ Identified and implemented changes to improve operations, efficiencies, effectiv
 ##### January 2016 - June 2019
 
 
-### EDUCATION
+## EDUCATION
 ### University of Nevada, Las Vegas - 2015
 Bachelor of Science in Hospitality Management
 
