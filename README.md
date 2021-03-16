@@ -10,14 +10,19 @@ LinkedIn: [Jay Yao](https://www.linkedin.com/in/j-yao/)
 ##### March 2020 - PRESENT
 Developing full stack web applications for small business clients. Taking apps to market in the education and nonprofit industries.
 
+#### Suite Project - Full Stack Developer
+Designed, developed, and released an application for people to efficiently search for hotel suite accommodations based on number of beds needed and location.
+
+#### White Bear - Full Stack Developer
+Developed to spec an app to aid in student achievement utilizing memory techniques and a spaced repetition algorithm. Wrote APIs to perform CRUD operations. Rewrote the front end in React.
 
 
 ## EDUCATION
 ### University of Nevada, Las Vegas - 2015
-##### Bachelor of Science in Hospitality Management
+Bachelor of Science in Hospitality Management
 
 ### City College of San Francisco - 2012
-##### Associate of Science in Culinary and Hospitality Studies
+Associate of Science in Culinary and Hospitality Studies
 
 Associate of Science in Social and Behavioral Sciences
 
