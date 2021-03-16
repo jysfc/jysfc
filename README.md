@@ -13,7 +13,13 @@ Developing full stack web applications for small business clients. Taking apps t
 
 
 ## EDUCATION
-### University of Nevada, Las Vegas, 2015
+### University of Nevada, Las Vegas 2015
+Bachelor of Science in Hospitality Management
+
+### City College of San Francisco 2012
+Associate of Science in Culinary and Hospitality Studies
+Associate of Science in Social and Behavioral Sciences
+
 
 
 
