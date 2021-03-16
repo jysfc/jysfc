@@ -1,6 +1,7 @@
 # Jay Yao
 
 [portfolio page](http://jayyao.surge.sh "portfolio page")
+
 LinkedIn: [Jay Yao](https://www.linkedin.com/in/j-yao/)
 
 ## Experience
