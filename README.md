@@ -1,4 +1,14 @@
-### Hi there 👋
+# Jay Yao
+
+[portfolio page](http://jayyao.surge.sh "portfolio page")
+LinkedIn: [Jay Yao](https://www.linkedin.com/in/j-yao/)
+
+## Experience
+
+### Freelance Web Development - Full Stack Developer
+
+
+
 
 <!--
 **jysfc/jysfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
