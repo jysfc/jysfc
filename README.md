@@ -18,11 +18,11 @@ Developed to spec an app to aid in student achievement utilizing memory techniqu
 
 ### Mandalay Bay Hotel & Casino — Hotel Operations Manager
 ##### July 2019 - September 2020
-Identified and implemented changes to improve operations, efficiencies, and metrics.
+Identified and implemented changes to improve operations, efficiencies, effectiveness and metrics for a 4326 room hotel and 130 agents.
 
 ### The Mirage Hotel & Casino — Assistant Front Desk Manager
 ##### January 2016 - June 2019
-Managed daily hotel operations, guest challenges and improved team morale.
+Managed daily hotel operations of over 3044 rooms, guest challenges and oversaw a team of 120 agents while improving team morale.
 
 ## EDUCATION
 ### University of Nevada, Las Vegas - 2015
